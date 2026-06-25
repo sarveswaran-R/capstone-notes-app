@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -139,3 +140,8 @@ cython_debug/
 
 static_root
 media_root
+=======
+.venv/
+../backups/
+
+>>>>>>> 1e806a7b149e8e4046f9a11aca17b031ed90fd99
